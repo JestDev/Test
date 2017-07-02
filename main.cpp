@@ -24,6 +24,10 @@ int main() {
    Lada.set(2003, 5, 18);
    Lada.get();
    
+   Auto Shkoda;
+   Shkoda.set(2010, 3, 16);
+   Shkoda.get();
+   
    cin.get();
    return 0;
 }
